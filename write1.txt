@@ -1,0 +1,1 @@
+This file from where data will read according question will written another file.
